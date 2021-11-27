@@ -33,12 +33,12 @@
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
       "required": false,
-      "value": "NatsukiSupport_Official"
+      "value": "GOPUUUXSUPPORT"
     },
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
       "required": false,
-      "value": "NatsukiMusic"
+      "value": "GOPUUU-MUSIC"
     },
     "ASSISTANT_NAME": {
       "description": "Your MusicPlayer's assistant Username without @.",
@@ -52,12 +52,12 @@
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
       "required": false,
-      "value": " https://telegra.ph/file/1fa0f2cb48b11523b7bf4.jpg"
+      "value": " https://telegra.ph/file/348b96ef70e2f36a9ce4d.jpg"
     },     
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
       "required": false,
-      "value": "Natsuki_updates"
+      "value": "RecklessxUpdate"
     },    
     "API_ID": {
       "description": "App ID from @SDMyTgOrgBot",
