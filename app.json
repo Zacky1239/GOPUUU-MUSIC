@@ -1,9 +1,9 @@
 {
-  "name": "NatsukiMusic",
-  "logo": "https://telegra.ph/file/4c731f7b6c2ba62f37171.jpg",
+  "name": "GOPUUU-MUSIC",
+  "logo": "https://telegra.ph/file/348b96ef70e2f36a9ce4d.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/Sadew451/NatsukiMusic",
+  "repository": "https://github.com/Zacky1239/GOPUUU-MUSIC",
   "buildpacks": [
    {
      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
