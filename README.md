@@ -1,15 +1,15 @@
-<h1 align="centre">NATSUKI MUSIC🎵</h1>
+<h1 align="centre">GOPUUU MUSIC🎵</h1>
 
 ### 𝘼 𝙗𝙤𝙩 𝙩𝙝𝙖𝙩 𝙘𝙖𝙣 𝙥𝙡𝙖𝙮 𝙢𝙪𝙨𝙞𝙘 𝙤𝙣 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙂𝙧𝙤𝙪𝙥 𝙖𝙣𝙙 𝘾𝙝𝙖𝙣𝙣𝙚𝙡 𝙑𝙤𝙞𝙘𝙚 𝘾𝙝𝙖𝙩𝙨
 
-### 𝘼𝙫𝙖𝙞𝙡𝙖𝙗𝙡𝙚 𝙤𝙣 𝙩𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙖𝙨 [@TheNatsukiBot](https://t.me/TheNatsukiBot)
+### 𝘼𝙫𝙖𝙞𝙡𝙖𝙗𝙡𝙚 𝙤𝙣 𝙩𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙖𝙨 [(soon)](https://t.me/teri_behn_ka_bf)
 
 <h4 align="center">A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
   <a href="https://github.com/Sadew451/NatsukiMusic/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
-<p align="center"><a href="https://t.me/NatsukiSupport_Official"><img src="https://telegra.ph/file/cd70f2c2dbdc00f163e93.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/NatsukiSupport_Official"><img src="https://telegra.ph/file/348b96ef70e2f36a9ce4d.jpg" width="400"></a></p>
 <p align="center">
     <a href="https://app.codacy.com/manual/sadew451/NatsukiMusic/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
     <a href="https://github.com/sadew451/NatsukiMusic"> <img src="https://img.shields.io/github/repo-size/sadew451/NatsukiMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
