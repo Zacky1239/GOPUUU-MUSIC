@@ -7,14 +7,14 @@
 <h4 align="center">A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
-  <a href="https://github.com/Sadew451/NatsukiMusic/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
+  <a href="https://github.com/Zacky1239/GOPUUU-MUSIC.git/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
-<p align="center"><a href="https://t.me/NatsukiSupport_Official"><img src="https://telegra.ph/file/348b96ef70e2f36a9ce4d.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/GOPUUUXSUPPORT"><img src="https://telegra.ph/file/348b96ef70e2f36a9ce4d.jpg" width="400"></a></p>
 <p align="center">
-    <a href="https://app.codacy.com/manual/sadew451/NatsukiMusic/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/sadew451/NatsukiMusic"> <img src="https://img.shields.io/github/repo-size/sadew451/NatsukiMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/sadew451/NatsukiMusic/commits/SadewJayasekara"> <img src="https://img.shields.io/github/last-commit/sadew451/NatsukiMusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-<a href="https://github.com/sadew451/NatsukiMusic/network/members"> <img src="https://img.shields.io/github/forks/sadew451/NatsukiMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://app.codacy.com/manual/Zacky1239/GOPUUU-MUSIC/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
+    <a href="https://github.com/Zacky1239/GOPUUU-MUSIC"> <img src="https://img.shields.io/github/repo-size/sadew451/NatsukiMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Zacky1239/GOPUUU-MUSIC/commits/SadewJayasekara"> <img src="https://img.shields.io/github/last-commit/Zacky1239/GOPUUU-MUSIC?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/Zacky1239/GOPUUU-MUSIC/network/members"> <img src="https://img.shields.io/github/forks/Zacky1239/GOPUUU-MUSIC?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
 
 
 <h2> Features 🔥 </h2>
@@ -35,9 +35,9 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sadew451/NatsukiMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Zacky1239/GOPUUU-MUSIC)
 
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Sadew451/NatsukiMusic)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/zacky1239/GOPUUU-MUSIC)
 
 Get pyrogram (p)  `SESSION` from here:
 
@@ -46,7 +46,7 @@ Get pyrogram (p)  `SESSION` from here:
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/Sadew451/NatsukiMusic
+$ git clone https://github.com/Zacky1239/GOPUUU-MUSIC
 $ cd NatsukiMusic
 # Upgrade sources
 # Install All Requirements 
@@ -54,7 +54,7 @@ $ pip(3) install -r requirements.txt
 # Rename example.env to local.env and fill
 $ npm i -g npm
 # Start Bot 
-$ python(3) -m NatsukiMusic
+$ python(3) -m GOPUUU-MUSIC 
 ```
 
 ### Commands for Group 🛠
@@ -104,7 +104,7 @@ For linked group admins only:
 If you donlt like to play in linked channel:
  1. Get your channel ID.
  2. Rename your group to: Channel Music: your_channel_id
- 3. Add [Natsuki](https://t.me/TheNatsukiBot) as Channel admin with full perms
+ 3. Add [our bot](https://t.me/teri_behn_ka_bf) as Channel admin with
  4. add helper to channel
  5. Simply send commands in your group.
 
